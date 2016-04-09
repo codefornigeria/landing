@@ -1,2 +1,4 @@
 name: Code for Nigeria
-markdown: redcarpet
+
+url: https://codefornigeria.org
+enforce_ssl: codefornigeria.org
