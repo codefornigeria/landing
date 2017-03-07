@@ -1,4 +1,2 @@
-Code For Nigeria Dot Org
+Code for Nigeria
 ========================
-
-Code for Nigeria's website.
