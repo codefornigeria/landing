@@ -1,0 +1,29 @@
+{
+  "name": "Code for Nigeria",
+  "version": "1.0.0",
+   "engines": {
+    "node": "0.12.7"
+  },
+  "description": "Codebridge Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo hello world\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefornigeria/landing.git"
+  },
+  "keywords": [
+    "prices",
+    "savings"
+  ],
+  "author": "temi adeoye , inioluwa adebanjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefornigeria/landing.git"
+  },
+  "homepage": "https://github.com/codefornigeria/landing#readme",
+  "dependencies": {
+    "node-static": "^0.7.8"
+  }
+}
